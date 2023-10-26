@@ -1,0 +1,14 @@
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\SocketCliente\SocketCliente\bin\Debug\netcoreapp3.1\SocketCliente.exe
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\SocketCliente\SocketCliente\bin\Debug\netcoreapp3.1\SocketCliente.deps.json
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\SocketCliente\SocketCliente\bin\Debug\netcoreapp3.1\SocketCliente.runtimeconfig.json
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\SocketCliente\SocketCliente\bin\Debug\netcoreapp3.1\SocketCliente.runtimeconfig.dev.json
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\SocketCliente\SocketCliente\bin\Debug\netcoreapp3.1\SocketCliente.dll
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\SocketCliente\SocketCliente\bin\Debug\netcoreapp3.1\SocketCliente.pdb
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\SocketCliente\SocketCliente\obj\Debug\netcoreapp3.1\SocketCliente.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\SocketCliente\SocketCliente\obj\Debug\netcoreapp3.1\SocketCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\SocketCliente\SocketCliente\obj\Debug\netcoreapp3.1\SocketCliente.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\SocketCliente\SocketCliente\obj\Debug\netcoreapp3.1\SocketCliente.AssemblyInfo.cs
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\SocketCliente\SocketCliente\obj\Debug\netcoreapp3.1\SocketCliente.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\SocketCliente\SocketCliente\obj\Debug\netcoreapp3.1\SocketCliente.dll
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\SocketCliente\SocketCliente\obj\Debug\netcoreapp3.1\SocketCliente.pdb
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\SocketCliente\SocketCliente\obj\Debug\netcoreapp3.1\SocketCliente.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\PracticaSocketComunicacionApp\PracticaSocketComunicacionApp\bin\Debug\netcoreapp3.1\PracticaSocketComunicacionApp.exe
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\PracticaSocketComunicacionApp\PracticaSocketComunicacionApp\bin\Debug\netcoreapp3.1\PracticaSocketComunicacionApp.deps.json
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\PracticaSocketComunicacionApp\PracticaSocketComunicacionApp\bin\Debug\netcoreapp3.1\PracticaSocketComunicacionApp.runtimeconfig.json
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\PracticaSocketComunicacionApp\PracticaSocketComunicacionApp\bin\Debug\netcoreapp3.1\PracticaSocketComunicacionApp.runtimeconfig.dev.json
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\PracticaSocketComunicacionApp\PracticaSocketComunicacionApp\bin\Debug\netcoreapp3.1\PracticaSocketComunicacionApp.dll
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\PracticaSocketComunicacionApp\PracticaSocketComunicacionApp\bin\Debug\netcoreapp3.1\PracticaSocketComunicacionApp.pdb
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\PracticaSocketComunicacionApp\PracticaSocketComunicacionApp\obj\Debug\netcoreapp3.1\PracticaSocketComunicacionApp.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\PracticaSocketComunicacionApp\PracticaSocketComunicacionApp\obj\Debug\netcoreapp3.1\PracticaSocketComunicacionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\PracticaSocketComunicacionApp\PracticaSocketComunicacionApp\obj\Debug\netcoreapp3.1\PracticaSocketComunicacionApp.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\PracticaSocketComunicacionApp\PracticaSocketComunicacionApp\obj\Debug\netcoreapp3.1\PracticaSocketComunicacionApp.AssemblyInfo.cs
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\PracticaSocketComunicacionApp\PracticaSocketComunicacionApp\obj\Debug\netcoreapp3.1\PracticaSocketComunicacionApp.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\PracticaSocketComunicacionApp\PracticaSocketComunicacionApp\obj\Debug\netcoreapp3.1\PracticaSocketComunicacionApp.dll
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\PracticaSocketComunicacionApp\PracticaSocketComunicacionApp\obj\Debug\netcoreapp3.1\PracticaSocketComunicacionApp.pdb
+C:\Users\Alan\Desktop\Informatica 7mo\PROGRAMACION EN AMBIENTE CLIENTESERVIDOR\PracticaSocketComunicacionApp\PracticaSocketComunicacionApp\obj\Debug\netcoreapp3.1\PracticaSocketComunicacionApp.genruntimeconfig.cache
